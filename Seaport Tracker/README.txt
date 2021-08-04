@@ -1,3 +1,4 @@
+**Individual School Projects**
 Seaport Tracker - individual school project
 Reads a .txt file of various seaports with their ships (cargo and passenger) docked or queued with crew information. The program 
 reads and scans the “world” .txt file and can display the seaports, cargo and passenger ships, and all the crewmen of that world written in the .txt file. 
