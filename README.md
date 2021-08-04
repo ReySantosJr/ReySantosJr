@@ -7,7 +7,7 @@
 - 📫 It's best to reach me by email: ReySantosJr@Outlook.com
 
 
-Here are my programming projects from my time in UMGC and some personal projects I've made.
-They are all executable files with explanation of their purpose and for easy access and demonstration.
+Here are the executable files of the programming projects that I've done in school and or are personal.
+Each folder of t he program has a README file for quick a explanation of the project.
 
-The coding of the projects are found on their own separate repositories. 
+The code of each project is found on their own separate repositories. 
