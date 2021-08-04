@@ -1,4 +1,4 @@
-***Individual School Projects***
+**Individual School Projects**
 Recreates the ATM experience in a simple manner by letting the user withdraw, 
 deposit, transfer, and or display the balance. 
 
